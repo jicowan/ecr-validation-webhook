@@ -12,7 +12,7 @@ Resources:
       MemorySize: 128
       Timeout: 3
       Role: >-
-        arn:aws:iam::820537372947:role/service-role/validating_webhook-role-molxb9sh
+        arn:aws:iam::111111111111:role/service-role/validating_webhook-role-molxb9sh
       Events:
         Api1:
           Type: Api
